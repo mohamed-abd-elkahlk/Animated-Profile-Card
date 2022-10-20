@@ -60,7 +60,7 @@ body{
     background: #28292d;
     z-index: 10;
     display: flex; 
-    background-image: url("/image/index1.jpeg");
+    background-image: url("../image/index1.jpeg");
     background-size: cover;
 }
 .info{
